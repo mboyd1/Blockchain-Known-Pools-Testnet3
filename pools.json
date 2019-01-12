@@ -274,14 +274,6 @@
         }
     },
     "payout_addresses" : {
-        "muSb64wgAJa7t9zzeVHDLAEMrFj9wmv3cu" : {
-            "name" : "Bitcoincloud.net",
-            "link" : "https://bitcoincloud.net/"
-        },
-        "mqc7VAsoU6isHrTovUWARPWTKb5tDpg16Z" : {
-            "name" : "unknown miner 7",
-            "link" : "https://testnet.bitcoincloud.net"
-        },
         "my2dxGb5jz43ktwGxg2doUaEb9WhZ9PQ7K" : {
             "name" : "btcpool",
             "link" : "https://pool.btc.com/"
